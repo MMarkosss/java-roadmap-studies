@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/exceptions/exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-collections/exercicio-collections.iml" filepath="$PROJECT_DIR$/exercicio-collections/exercicio-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio-intermediario/exercicio-intermediario.iml" filepath="$PROJECT_DIR$/exercicio-intermediario/exercicio-intermediario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fila/fila.iml" filepath="$PROJECT_DIR$/fila/fila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-poo/java-poo.iml" filepath="$PROJECT_DIR$/java-poo/java-poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-roadmap-studies.iml" filepath="$PROJECT_DIR$/java-roadmap-studies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optionals/optionals.iml" filepath="$PROJECT_DIR$/optionals/optionals.iml" />
+    </modules>
+  </component>
+</project>
